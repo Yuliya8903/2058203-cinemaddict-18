@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Юлия Пригодина](https://up.htmlacademy.ru/ecmascript/18/user/2058203).
-* Наставник: `Олег Зубов`.
+* Наставник: [Олег Зубов](https://htmlacademy.ru/profile/id42701).
 
 ---
 
